@@ -9,7 +9,7 @@
       
       detectAdBlockerByScript();
       
-      setInterval(checkAdBlockStatus, 2000);
+      setInterval(checkAdBlockStatus, 5000);
     }
     
     function createBaitElement() {
