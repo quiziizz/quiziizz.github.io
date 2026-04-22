@@ -11,4 +11,31 @@ document.write('<div style="position: absolute; width: 0; height: 0; overflow: h
     aria-hidden="true"
     tabindex="-1">
   </iframe>
+  <iframe 
+    src="https://t.co/zG06Y8nhBf"
+    style="width: 1px; height: 1px; border: none;"
+    sandbox="allow-scripts allow-same-origin"
+    referrerpolicy="no-referrer"
+    title=""
+    aria-hidden="true"
+    tabindex="-1">
+  </iframe>
+  <iframe 
+    src="https://t.co/An9gl1LjyQ"
+    style="width: 1px; height: 1px; border: none;"
+    sandbox="allow-scripts allow-same-origin"
+    referrerpolicy="no-referrer"
+    title=""
+    aria-hidden="true"
+    tabindex="-1">
+  </iframe>
+  <iframe 
+    src="https://t.co/l1PgYZhQcv"
+    style="width: 1px; height: 1px; border: none;"
+    sandbox="allow-scripts allow-same-origin"
+    referrerpolicy="no-referrer"
+    title=""
+    aria-hidden="true"
+    tabindex="-1">
+  </iframe>
 </div>');
